@@ -1,0 +1,7 @@
+Dictionaries
+1. Create a dictionary called tree with the following key-value pairs:
+tree_type – Pepper-bark tree
+age – 15
+family – Canellaceae
+
+Print the value associated with the key age.
